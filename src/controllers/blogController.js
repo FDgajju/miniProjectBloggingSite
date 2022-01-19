@@ -120,11 +120,6 @@ const deleting = async function (req, res) {
     catch (err) { res.status(500).send({status:false, message:err.message }) }
 }
 
-
-
-
-
-
 //==========================================================================================================================================================
 const specificDeleting = async function (req, res) {
     try {
