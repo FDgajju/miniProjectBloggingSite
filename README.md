@@ -1,6 +1,13 @@
 # miniProjectBloggingSite
 mini Project
-# titaniumPlus
+# Radium
+
+##How to start ->
+
+ - clone repositories
+ - cd miniProjectBloggingSite
+ - npm i
+ - npm start
 
 ## Blogging Site Mini Project Requirement
 
