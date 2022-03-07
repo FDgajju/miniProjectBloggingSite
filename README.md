@@ -2,7 +2,7 @@
 mini Project
 # Radium
 
-##How to start ->
+## How to start ->
 
  - clone repositories
  - cd miniProjectBloggingSite
